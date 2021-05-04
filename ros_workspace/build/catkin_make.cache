@@ -1,0 +1,2 @@
+node_talk:working_with_msgs
+-DCATKIN_DEVEL_PREFIX=/home/turtlebot/ros_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/turtlebot/ros_workspace/install -G Unix Makefiles

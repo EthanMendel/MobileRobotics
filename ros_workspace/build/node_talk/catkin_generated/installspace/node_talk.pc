@@ -1,0 +1,8 @@
+prefix=/home/turtlebot/ros_workspace/install
+
+Name: node_talk
+Description: Description of node_talk
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/turtlebot/ros_workspace/install/lib 
+Requires: 
